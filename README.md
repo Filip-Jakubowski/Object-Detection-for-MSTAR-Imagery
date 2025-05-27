@@ -8,7 +8,6 @@ This project explores object detection techniques for the MSTAR IU Mixed Targets
 
 ## 🎯 Objectives
 - Detect and localize military vehicles in SAR images.
-- Compare modern object detection models (YOLOv8, Faster R-CNN, SSD).
 - Adapt detection techniques to noisy, radar-specific data.
 
 ## ⚙️ Methodology
@@ -26,10 +25,6 @@ This project explores object detection techniques for the MSTAR IU Mixed Targets
   <img src="results/predictions.png" width="600"/>
 </p>
 
-## 📂 Structure
-- `notebooks/`: exploration and training runs
-- `src/`: training and evaluation scripts
-- `results/`: output images and metrics
 
 ## 📜 License & Ethics
 - Dataset licensed under CC BY 4.0 (via Roboflow)
