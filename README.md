@@ -1,7 +1,7 @@
 # Object Detection on MSTAR SAR Imagery (YOLOv8)
 
 How easy is it to train apply object classification for the MSTAR IU Mixed Targets dataset using YOLOv8?
-<p align="center"> <img src="mstr1.jpg" width="280"/> <img src="mstr2.jpg" width="280"/> <img src="mstr3.jpg" width="280"/> </p>
+<p align="center"> <img src="mstr1.jpg" width="280"/> <img src="mstr2.jpg" width="280"/> <img src="mstr3.png" width="280"/> </p>
 ##  Dataset
 - **MSTAR IU Mixed Targets** provided by the Sensor Data Management System.
 - Contains SAR images of military vehicles under varying conditions.
