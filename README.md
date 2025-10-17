@@ -1,7 +1,7 @@
 # Object Detection on MSTAR SAR Imagery (YOLOv8)
 
 How easy is it to train apply object classification for the MSTAR IU Mixed Targets dataset using YOLOv8?
-
+<p align="center"> <img src="mstr1.jpg" width="280"/> <img src="mstr2.jpg" width="280"/> <img src="mstr3.jpg" width="280"/> </p>
 ##  Dataset
 - **MSTAR IU Mixed Targets** provided by the Sensor Data Management System.
 - Contains SAR images of military vehicles under varying conditions.
@@ -19,9 +19,9 @@ How easy is it to train apply object classification for the MSTAR IU Mixed Targe
 ##  Results
 - mAP@0.5: **98.9%**
 - Inference speed: ** 100 ms/image**
+<p align="center"> <img src="eval.png" width="280"/>
 
 
-<p align="center"> <img src="results/mstr1.png" width="280"/> <img src="results/mstr2.png" width="280"/> <img src="results/mstr3.png" width="280"/> </p>
 
 
 ##  License & Ethics
