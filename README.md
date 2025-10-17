@@ -1,6 +1,6 @@
 # Object Detection on MSTAR SAR Imagery (YOLOv8)
 
-This project explores object detection techniques for the MSTAR IU Mixed Targets dataset using YOLOv8.
+How easy is it to train apply object classification for the MSTAR IU Mixed Targets dataset using YOLOv8?
 
 ## 🛰️ Dataset
 - **MSTAR IU Mixed Targets** provided by the Sensor Data Management System.
